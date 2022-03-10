@@ -20,7 +20,7 @@
 
 | Week  |                        Content                        | My Notes |
 |-------|:-----------------------------------------------------:|----------|
-| One   | History of Cybersecurity                              | Link     |
+| One   | History of Cybersecurity                              | [Link](https://www.notion.so/Study-Introduction-to-CyberSecurity-Week-1-b527db23ece849edb83552051c4f1da4)     |
 | Two   | A brief overview of types of actors and their motives | Link     |
 | Three | An overview of key security concepts                  | Link     |
 | Four  | An overview of key security tools                     | Link     |
